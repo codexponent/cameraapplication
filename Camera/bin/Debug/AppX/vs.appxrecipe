@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-1MHV9NI</Machine>
+    <WindowsUser>TeasingExponent</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8447715e-8377-4a9e-853b-ec442dc4b0bf</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\lenovo\documents\visual studio 2015\Projects\Camera\Camera\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C646BFA33E9008C92361853A1B1958F606970A42EF8E83D2A8F5EE41FBF4B278</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8447715e-8377-4a9e-853b-ec442dc4b0bf_1.0.0.0_neutral__qjaqfm8rfxggg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8447715e-8377-4a9e-853b-ec442dc4b0bf_qjaqfm8rfxggg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8447715e-8377-4a9e-853b-ec442dc4b0bf</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=TeasingExponent</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\lenovo\documents\visual studio 2015\Projects\Camera\Camera\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-06T09:28:40.808</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2015\Projects\Camera\Camera\bin\Debug\Camera.exe">
+      <PackagePath>Camera.exe</PackagePath>
+      <Modified>2016-06-06T11:03:24.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2015\Projects\Camera\Camera\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2015\Projects\Camera\Camera\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2015\Projects\Camera\Camera\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2015\Projects\Camera\Camera\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2015\Projects\Camera\Camera\bin\Debug\Camera.xr.xml">
+      <PackagePath>Camera.xr.xml</PackagePath>
+      <Modified>2016-06-06T09:28:40.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2015\Projects\Camera\Camera\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-06-06T09:28:40.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2015\Projects\Camera\Camera\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-06-06T10:58:23.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2015\Projects\Camera\Camera\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-06-06T09:28:40.558</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
